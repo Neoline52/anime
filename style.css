@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+.container {
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    margin: auto;
+}
+
+.header ul {
+    position: absolute;
+    right: 0%;
+}
+
+.header ul li {
+    display: inline-block;
+    
+}
+
+.img_nav {
+    position: relative;
+}
+
+
+
+
+
+
+
